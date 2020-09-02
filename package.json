@@ -21,7 +21,7 @@
   "dependencies": {
     "axios": "^0.15.3",
     "axios-fileupload": "0.0.1",
-    "bootstrap-vue": "^0.16.1",
+    "bootstrap-vue": "^2.0.0",
     "moment": "^2.18.1",
     "pikaday-responsive": "^0.7.0",
     "vue-select": "^2.2.0",
